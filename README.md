@@ -13,8 +13,6 @@
 
 - 📄 Check out my resume [https://www.linkedin.com/in/collinsjohnsoniii/details/featured/1635520187528/single-media-viewer/?profileId=ACoAADSnINgB1IDd5HJDS-aP4fdXT8vne3vIpas]
 
-- ⚡ Fun fact **I love Video Games, Anime, Sci-Fi, Fantasy, Cosplay, and going to Nerd Conventions! I also love Cats! They're soooooo cute and fluffy and make the best companions! Dogs are cool too, though!**
-
 ## Skills  
 <table><tr><td valign="top" width="50%">
 
