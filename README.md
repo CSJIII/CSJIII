@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi new friends, I'm Collins Johnson 👋</h1>
+<h1 align="center">👋 Hi New Friends, I'm Collins Johnson 👋</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80130998/224761846-3f55ef33-6db2-4f89-a1b3-606847b87191.jpg"/ alt="Software Engineer" height="200" width="500">
 </p>
