@@ -6,21 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csjiii&label=Profile%20views&color=0e75b6&style=flat" alt="csjiii" /> </p>
 
-- 🔭 I’m currently working on [A few different prototype projects, some of which will utilize the MERN stack, and I will eventually upload them once I finish mapping out how I want to build them!](Coming Soon)
-
-- 🌱 I’m currently diving deeper into **MERN Stack**
-
-- 👯 I’m looking to collaborate on **Website Development projects of all types, so if you need help with anything, hit me up and I'd love to see how I can help you with your projects!**
-
-- 🤝 I’m looking for help with **Finding some local area communities or online Discord communities that are filled with teams of active Software Developers who are working together to finish projects!**
+- 🔭 I’m currently working on [Codewars problems until I figure out what I want to do with my next website project!](https://github.com/CSJIII/Algorithm_Practice)
 
 - 👨‍💻 All of my projects are available at [https://github.com/CSJIII?tab=repositories](https://github.com/CSJIII?tab=repositories)
 
-- 💬 Ask me about **HTML Tags, CSS Selectors, JavaScript DOM, SQL, etc.**
-
 - 📫 How to reach me **collins1104@gmail.com**
 
-- 📄 Know about my experiences through [file:///C:/Users/colli/Downloads/Resume/Resume/Collins%20Johnson%20Resume.pdf](file:///C:/Users/colli/Downloads/Resume/Resume/Collins%20Johnson%20Resume.pdf)
+- 📄 Check out my resume [file:///C:/Users/colli/Downloads/Resume/Resume/Collins%20Johnson%20Resume.pdf](file:///C:/Users/colli/Downloads/Resume/Resume/Collins%20Johnson%20Resume.pdf)
 
 - ⚡ Fun fact **I love Video Games, Anime, Sci-Fi, Fantasy, Cosplay, and going to Nerd Conventions! I also love Cats! They're soooooo cute and fluffy and make the best companions! Dogs are cool too, though!**
 
