@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Collins Johnson</h1>
+<h1 align="center">👋 Hi new friends, I'm Collins Johnson 👋</h1>
 <h3 align="center">A passionate Software Engineer from Upper Marlboro, MD</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80130998/224761846-3f55ef33-6db2-4f89-a1b3-606847b87191.jpg"/ alt="Software Engineer" height="240" width="520">
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **collins1104@gmail.com**
 
-- 📄 Check out my resume [file:///C:/Users/colli/Downloads/Resume/Resume/Collins%20Johnson%20Resume.pdf](file:///C:/Users/colli/Downloads/Resume/Resume/Collins%20Johnson%20Resume.pdf)
+- 📄 Check out my resume [https://www.linkedin.com/in/collinsjohnsoniii/details/featured/1635520187528/single-media-viewer/?profileId=ACoAADSnINgB1IDd5HJDS-aP4fdXT8vne3vIpas]
 
 - ⚡ Fun fact **I love Video Games, Anime, Sci-Fi, Fantasy, Cosplay, and going to Nerd Conventions! I also love Cats! They're soooooo cute and fluffy and make the best companions! Dogs are cool too, though!**
 
