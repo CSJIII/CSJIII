@@ -15,11 +15,6 @@
 
 - ⚡ Fun fact **I love Video Games, Anime, Sci-Fi, Fantasy, Cosplay, and going to Nerd Conventions! I also love Cats! They're soooooo cute and fluffy and make the best companions! Dogs are cool too, though!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/collinsjohnsoniii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="collins johnson" height="30" width="40" /></a>
-</p>
-
 ## Skills  
 <table><tr><td valign="top" width="50%">
 
