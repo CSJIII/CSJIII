@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hi new friends, I'm Collins Johnson 👋</h1>
-<h3 align="center">A passionate Software Engineer from Upper Marlboro, MD</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80130998/224761846-3f55ef33-6db2-4f89-a1b3-606847b87191.jpg"/ alt="Software Engineer" height="240" width="520">
+  <img src="https://user-images.githubusercontent.com/80130998/224761846-3f55ef33-6db2-4f89-a1b3-606847b87191.jpg"/ alt="Software Engineer" height="200" width="500">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csjiii&label=Profile%20views&color=0e75b6&style=flat" alt="csjiii" /> </p>
+<p align"center"> <b>I am a Software Engineer based in Upper Marlboro, MD. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, JavaScript, SQL, MongoDB, Express, React, and Node. As a software engineer, I bring my undying curiosity, strong organizational skills, and determination to build clean, user-friendly, and efficient web applications.<b> </p>
 
 - 🔭 I’m currently working on [Codewars problems until I figure out what I want to do with my next website project!](https://github.com/CSJIII/Algorithm_Practice)
 
