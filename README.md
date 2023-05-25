@@ -5,13 +5,9 @@
 
 <p align"center"> <b>I am a Software Engineer based in Upper Marlboro, MD. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, JavaScript, SQL, MongoDB, Express, React, and Node. As a software engineer, I bring my undying curiosity, strong organizational skills, and determination to build clean, user-friendly, and efficient web applications.<b> </p>
 
-- 🔭 I’m currently working on [Codewars problems until I figure out what I want to do with my next website project!](https://github.com/CSJIII/Algorithm_Practice)
-
 - 👨‍💻 All of my projects are available at [https://github.com/CSJIII?tab=repositories](https://github.com/CSJIII?tab=repositories)
 
 - 📫 How to reach me **collins1104@gmail.com**
-
-- 📄 Check out my resume [https://www.linkedin.com/in/collinsjohnsoniii/details/featured/1635520187528/single-media-viewer/?profileId=ACoAADSnINgB1IDd5HJDS-aP4fdXT8vne3vIpas]
 
 ## Skills  
 <table><tr><td valign="top" width="50%">
