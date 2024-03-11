@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hi New Friends, I'm Collins Johnson 👋</h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/80130998/224761846-3f55ef33-6db2-4f89-a1b3-606847b87191.jpg"/ alt="Software Engineer" height="200" width="500">
-</p>
-
-
 <p align"center"> <b>I am a Software Engineer based in Upper Marlboro, MD. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, JavaScript, SQL, MongoDB, Express, React, and Node. As a software engineer, I bring my undying curiosity, strong organizational skills, and determination to build clean, user-friendly, and efficient web applications.<b> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/CSJIII?tab=repositories](https://github.com/CSJIII?tab=repositories)
