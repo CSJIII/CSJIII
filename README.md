@@ -4,7 +4,7 @@
 
 During my time at the University of the People, I have worked with multiple programming languages, libraries, frameworks, and technologies such as Python, Java, HTML, CSS, JavaScript, TypeScript, React, Django, Spring Boot, Docker, Kubernetes, and SQL. My favorite tech stack at the moment is HTML, CSS, and JavaScript on the front end, and Python, Django, and MySQL on the backend. I am working on getting more proficient with this particular stack since it has been helping me become a more productive coder, but I also love the challenge of learning new technologies and stacks whenever I get the chance to.
 
-I earned my B.S. in Computer Science back in 2020 and have since been refining the skills that I learned during my years at university by applying them to personal projects, some of which have been posted here. <b> </p>
+I earned my B.S. in Computer Science back in 2020 and have since been refining the skills that I learned during my years at university by applying them to personal projects. <b> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/CSJIII?tab=repositories](https://github.com/CSJIII?tab=repositories)
 
